@@ -18,6 +18,13 @@
     - demo-api-key-123 (demo user)
     - admin-key-456 (admin user)
 
+## Validation-Artifacts:
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/7ae5aea7-c7ba-4625-a153-370ff13623ed" />
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/b9e18896-bfd5-45fa-9835-fb45cd88de5b" />
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/5bc4256f-486f-4bb0-aed6-60ff43d2108e" />
+
+
+
 ## 🏗️ Domain-Driven Design Architecture:
 
 ### 1. Domain Layer (Core Business Logic)
