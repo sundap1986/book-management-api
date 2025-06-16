@@ -6,14 +6,18 @@
 
 ## 📝 Usage Guide: 
 ### Running the Application:
-1. Install dependencies:
+1. Please fork or Clone the repository:
+   - git clone https://github.com/sundap1986/book-management-api.git
+2. Change the directory
+   -    cd book-management-api
+3. Install dependencies:
     -  pip install -r requirements.txt
-2. Run the server:
+4. Run the server:
     -  python main.py
-3. Access API Documentation:
+5. Access API Documentation:
     - Swagger UI: http://localhost:8000/docs
     - ReDoc: http://localhost:8000/redoc
-4. Authentication:
+6. Authentication:
 -  Use one of these API keys in the Authorization header:
     - demo-api-key-123 (demo user)
     - admin-key-456 (admin user)
